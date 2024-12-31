@@ -16,3 +16,5 @@ This repository contains solutions to selected exercises from the "Additional Ex
 8. 19.5 - Network Sizing  
 9. 20.8 - Utility/Power Trade-Off in a Wireless Network  
 10. 20.6 - AC Power Flow Analysis via Convex Optimization
+
+`cvx_report_final.ipynb` contains the colab file for the solution of the problems. 
